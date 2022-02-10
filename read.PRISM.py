@@ -6,9 +6,9 @@ import numpy as np
 
 # Edit the file names
 # LatLon mesh .csv file
-filein='/mnt/data/obs/precip/PRISM/PRISM_4kmesh_LatLong.csv'
+filein='PRISM_4kmesh_LatLong.csv'
 # PRISM 4km .bil file
-filein2='/mnt/data/obs/precip/PRISM/2001/PRISM_ppt_stable_4kmD2_20010801_bil.bil'
+filein2='PRISM_ppt_stable_4kmD2_20010801_bil.bil'
 
 # Reading coordinates as a list from a mesh csv file
 latlon = []
